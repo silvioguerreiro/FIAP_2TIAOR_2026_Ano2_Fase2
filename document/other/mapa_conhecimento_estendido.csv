@@ -1,0 +1,68 @@
+Sintoma 1,Sintoma 2,Doença Associada,sinal_de_alarme,observacao_didatica
+dor no peito,aperto no tórax,Infarto,sim,Exemplo literal do enunciado. Dor ou aperto torácico é a queixa clássica do infarto agudo do miocárdio.
+dor no peito,suor frio,Infarto,sim,Dor torácica acompanhada de sudorese fria é sinal de alarme para síndrome coronariana aguda.
+dor no peito,formigamento no braço,Infarto,sim,"Irradiação ou parestesia no braço, em geral esquerdo, reforça a suspeita de infarto."
+dor que irradia para o braço,dor na mandíbula,Infarto,sim,Irradiação para braço ou mandíbula é padrão típico de dor isquêmica.
+peito apertado,enjoo,Infarto,sim,Vocabulário popular para opressão torácica; náusea acompanha com frequência o infarto.
+dor forte no peito,falta de ar,Infarto,sim,Dor intensa com dispneia exige atendimento imediato.
+peso no peito,suor frio,Infarto,sim,Sensação de peso é descrição comum de dor isquêmica em linguagem leiga.
+dor no peito em repouso,mal estar,Infarto,sim,Dor que surge em repouso sugere instabilidade da placa coronariana.
+queimação no peito,dormência no braço esquerdo,Infarto,sim,Queimação pode ser confundida com refluxo; a dormência no braço muda a hipótese.
+dor no braço esquerdo,náusea,Infarto,sim,"Apresentação sem dor torácica evidente, mais comum em mulheres, idosos e diabéticos."
+falta de ar,dificuldade para respirar,Angina,sim,"Exemplo literal do enunciado; mantido por alinhamento com a correção, embora dispneia isolada seja inespecífica."
+dor no peito ao esforço,melhora com repouso,Angina,não,Padrão clássico da angina estável: desencadeada pelo esforço e aliviada pelo repouso.
+aperto no peito ao subir escada,cansaço ao caminhar,Angina,não,Limitação funcional progressiva ao esforço.
+dor no peito ao caminhar,aperto no peito,Angina,não,Dor previsível ao caminhar é sugestiva de isquemia estável.
+desconforto no peito ao fazer esforço,falta de ar ao esforço,Angina,não,Equivalente anginoso: dispneia ao esforço pode substituir a dor.
+dor no peito que passa em poucos minutos,peso no peito,Angina,não,Episódios curtos e autolimitados diferenciam angina estável de infarto.
+dor no peito que piora quando faço esforço,dor no peito que piora com esforço,Angina,não,Cobre a frase-exemplo da Parte 1 do enunciado: dor torácica desencadeada ou agravada pelo esforço físico é o padrão da angina estável.
+cansaço constante,fadiga,Insuficiência Cardíaca,não,Exemplo literal do enunciado. Fadiga persistente reflete baixo débito cardíaco.
+cansaço que não melhora com descanso,mesmo depois de descansar,Insuficiência Cardíaca,não,Cobre a segunda frase-exemplo da Parte 1 do enunciado: fadiga que persiste apesar do repouso é típica de baixo débito cardíaco.
+pernas inchadas,falta de fôlego ao subir escada,Insuficiência Cardíaca,não,Edema de membros inferiores com dispneia aos esforços é a dupla clássica da insuficiência cardíaca.
+inchaço nos pés,canseira,Insuficiência Cardíaca,não,Vocabulário popular para edema e fadiga.
+falta de ar ao deitar,tosse noturna,Insuficiência Cardíaca,sim,Ortopneia e tosse noturna indicam congestão pulmonar.
+acordo com falta de ar,pés inchados,Insuficiência Cardíaca,sim,Dispneia paroxística noturna é sinal de descompensação.
+barriga inchada,ganho de peso rápido,Insuficiência Cardíaca,não,Ascite e ganho ponderal rápido por retenção de líquido.
+cansaço ao caminhar,inchaço nas pernas,Insuficiência Cardíaca,não,Intolerância ao esforço com edema.
+falta de ar,cansaço constante,Insuficiência Cardíaca,não,Combinação frequente na insuficiência cardíaca crônica.
+coração acelerado,batedeira,Arritmia,não,Batedeira é o termo popular para palpitação.
+palpitação,tontura,Arritmia,sim,Palpitação com tontura sugere arritmia com repercussão hemodinâmica.
+coração disparado,falta de ar,Arritmia,sim,Taquiarritmia sustentada com dispneia.
+batimento irregular,tontura,Arritmia,sim,Irregularidade do pulso é típica da fibrilação atrial.
+coração batendo forte,sensação de desmaio,Arritmia,sim,Pré-síncope associada a palpitação é sinal de alarme.
+coração descompassado,fraqueza,Arritmia,não,Descrição leiga de ritmo irregular.
+batedeira,suor frio,Arritmia,sim,Palpitação com sudorese fria exige avaliação imediata.
+coração falhando,palpitação,Arritmia,não,Sensação de falha de batimento é comum em extrassístoles.
+pressão alta,dor de cabeça,Hipertensão,não,Cefaleia é a queixa mais associada pelo paciente à pressão elevada.
+dor na nuca,zumbido no ouvido,Hipertensão,não,Sintomas popularmente atribuídos a picos pressóricos.
+pressão alta,vista embaçada,Hipertensão,sim,Alteração visual com pressão alta pode indicar emergência hipertensiva.
+dor de cabeça forte,sangramento no nariz,Hipertensão,sim,Epistaxe com cefaleia intensa merece aferição imediata da pressão.
+pressão alta,tontura,Hipertensão,não,"Tontura é queixa frequente, embora inespecífica."
+dor na nuca,vista escura,Hipertensão,sim,Cefaleia occipital com escurecimento visual é sinal de alarme.
+fala enrolada,fraqueza de um lado do corpo,AVC,sim,Disartria com hemiparesia é apresentação clássica do AVC.
+boca torta,formigamento no rosto,AVC,sim,Assimetria facial súbita é sinal de alarme neurológico.
+dificuldade para falar,fraqueza no braço,AVC,sim,Componentes da escala de reconhecimento rápido de AVC.
+dormência de um lado do corpo,confusão mental,AVC,sim,Déficit sensitivo unilateral com alteração cognitiva súbita.
+perda de visão súbita,dor de cabeça súbita,AVC,sim,Cefaleia súbita e intensa com déficit visual pode indicar AVC hemorrágico.
+desequilíbrio,fala embolada,AVC,sim,Ataxia com disartria sugere acometimento de circulação posterior.
+dor no peito que piora ao respirar,febre,Pericardite,não,Dor pleurítica com febre após quadro viral é típica de pericardite.
+dor no peito que melhora ao inclinar para frente,dor no peito ao deitar,Pericardite,não,Padrão postural característico da dor pericárdica.
+dor no peito em pontada,febre,Pericardite,não,Dor em pontada é descrição frequente na pericardite.
+desmaio,vista escura,Síncope,sim,Perda transitória de consciência precedida de escurecimento visual.
+tontura ao levantar,desmaio,Síncope,sim,Hipotensão postural é causa comum de síncope.
+escurecimento da visão,queda súbita,Síncope,sim,Queda sem aviso exige investigação cardíaca.
+suor frio,sensação de desmaio,Síncope,sim,Pródromo vasovagal clássico.
+perna inchada de um lado,dor na panturrilha,Trombose Venosa,sim,Edema assimétrico com dor na panturrilha é a apresentação típica da trombose venosa profunda.
+dor na perna,vermelhidão na perna,Trombose Venosa,não,Sinais inflamatórios locais.
+inchaço em uma perna,perna quente,Trombose Venosa,sim,Calor local com edema unilateral.
+dor no peito ao apertar,dor ao mover o braço,Dor Musculoesquelética,não,Dor reproduzida pela palpação ou pelo movimento sugere origem na parede torácica.
+dor no peito ao mover o tronco,dor muscular,Dor Musculoesquelética,não,Dor que varia com a postura e o movimento.
+dor que piora ao apertar o peito,dor após exercício,Dor Musculoesquelética,não,Relação com esforço muscular recente.
+coração acelerado,sensação de sufoco,Ansiedade,não,Crise de ansiedade pode simular sintomas cardíacos; diagnóstico de exclusão.
+formigamento nas mãos,nervosismo,Ansiedade,não,Parestesias por hiperventilação.
+falta de ar em momentos de estresse,medo de morrer,Ansiedade,não,Sintomas ligados a gatilho emocional identificável.
+tremor,coração acelerado,Ansiedade,não,Ativação adrenérgica em crise de ansiedade.
+queimação no peito,azia,Refluxo,não,Pirose é a queixa central do refluxo gastroesofágico.
+azia após comer,gosto amargo na boca,Refluxo,não,Relação com alimentação e regurgitação ácida.
+queimação no estômago,arroto,Refluxo,não,Sintomas dispépticos associados.
+queimação no peito ao deitar,azia,Refluxo,não,Piora em decúbito é característica do refluxo.

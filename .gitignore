@@ -1,0 +1,22 @@
+# Observacao: o .gitignore do modelo FIAP exclui *.csv; aqui os CSVs (mapa de
+# conhecimento e base rotulada) sao entregaveis do enunciado e permanecem versionados.
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Modelos grandes de outras fases
+*.h5
+*.keras

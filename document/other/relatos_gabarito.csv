@@ -1,0 +1,11 @@
+id,frase,sintomas_esperados,diagnostico_esperado
+1,"Desde ontem à noite sinto uma dor no peito muito forte, com suor frio e formigamento no braço esquerdo; hoje não consegui ir trabalhar e mal aguento andar até a cozinha.",dor no peito; suor frio; formigamento no braço,Infarto
+2,"Faz umas três semanas que sinto aperto no peito ao subir escada e cansaço ao caminhar depressa; melhora com repouso em poucos minutos, mas já deixei de ir à feira a pé.",aperto no peito ao subir escada; cansaço ao caminhar; melhora com repouso,Angina
+3,"De uns dois meses para cá estou com as pernas inchadas, uma canseira danada e acordo com falta de ar de madrugada; já não dou conta de cuidar da casa sozinha.",pernas inchadas; canseira; acordo com falta de ar,Insuficiência Cardíaca
+4,"Há uns dez dias, no meio do treino de corrida, sinto o coração acelerado do nada, com batedeira e tontura; parei de treinar porque fiquei com medo de cair na pista.",coração acelerado; batedeira; tontura,Arritmia
+5,"Nos últimos quinze dias estou com a pressão alta, dor na nuca e zumbido no ouvido quase todo dia; no serviço não consigo me concentrar e já saí mais cedo duas vezes.",pressão alta; dor na nuca; zumbido no ouvido,Hipertensão
+6,"Hoje de manhã, de repente, fiquei com a fala enrolada, a boca torta e fraqueza no braço direito; não consegui nem segurar a xícara de café e estou com medo de ficar sozinha.",fala enrolada; boca torta; fraqueza no braço,AVC
+7,"Ontem, depois de ficar em pé no sol na fila do banco, senti vista escura e suor frio e tive um desmaio; hoje faltei à aula com medo de cair de novo.",vista escura; suor frio; desmaio,Síncope
+8,"Desde anteontem, depois de jantar tarde, sinto queimação no peito e azia quando deito, com gosto amargo na boca; durmo mal e acordo cansado para o trabalho.",queimação no peito; azia; gosto amargo na boca,Refluxo
+9,"Faz quatro dias que sinto dor no peito ao apertar e dor ao mover o braço, depois de um treino pesado de musculação; não tenho falta de ar, mas incomoda na hora de dormir de lado.",dor no peito ao apertar; dor ao mover o braço,Dor Musculoesquelética
+10,"Há um mês, sempre antes das reuniões, fico com o coração acelerado, formigamento nas mãos e uma sensação de sufoco que passa em meia hora; tenho evitado apresentar meus projetos.",coração acelerado; formigamento nas mãos; sensação de sufoco,Ansiedade

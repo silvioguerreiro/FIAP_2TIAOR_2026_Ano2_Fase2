@@ -1,0 +1,68 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,aperto no tórax,Infarto
+dor no peito,suor frio,Infarto
+dor no peito,formigamento no braço,Infarto
+dor que irradia para o braço,dor na mandíbula,Infarto
+peito apertado,enjoo,Infarto
+dor forte no peito,falta de ar,Infarto
+peso no peito,suor frio,Infarto
+dor no peito em repouso,mal estar,Infarto
+queimação no peito,dormência no braço esquerdo,Infarto
+dor no braço esquerdo,náusea,Infarto
+falta de ar,dificuldade para respirar,Angina
+dor no peito ao esforço,melhora com repouso,Angina
+aperto no peito ao subir escada,cansaço ao caminhar,Angina
+dor no peito ao caminhar,aperto no peito,Angina
+desconforto no peito ao fazer esforço,falta de ar ao esforço,Angina
+dor no peito que passa em poucos minutos,peso no peito,Angina
+dor no peito que piora quando faço esforço,dor no peito que piora com esforço,Angina
+cansaço constante,fadiga,Insuficiência Cardíaca
+cansaço que não melhora com descanso,mesmo depois de descansar,Insuficiência Cardíaca
+pernas inchadas,falta de fôlego ao subir escada,Insuficiência Cardíaca
+inchaço nos pés,canseira,Insuficiência Cardíaca
+falta de ar ao deitar,tosse noturna,Insuficiência Cardíaca
+acordo com falta de ar,pés inchados,Insuficiência Cardíaca
+barriga inchada,ganho de peso rápido,Insuficiência Cardíaca
+cansaço ao caminhar,inchaço nas pernas,Insuficiência Cardíaca
+falta de ar,cansaço constante,Insuficiência Cardíaca
+coração acelerado,batedeira,Arritmia
+palpitação,tontura,Arritmia
+coração disparado,falta de ar,Arritmia
+batimento irregular,tontura,Arritmia
+coração batendo forte,sensação de desmaio,Arritmia
+coração descompassado,fraqueza,Arritmia
+batedeira,suor frio,Arritmia
+coração falhando,palpitação,Arritmia
+pressão alta,dor de cabeça,Hipertensão
+dor na nuca,zumbido no ouvido,Hipertensão
+pressão alta,vista embaçada,Hipertensão
+dor de cabeça forte,sangramento no nariz,Hipertensão
+pressão alta,tontura,Hipertensão
+dor na nuca,vista escura,Hipertensão
+fala enrolada,fraqueza de um lado do corpo,AVC
+boca torta,formigamento no rosto,AVC
+dificuldade para falar,fraqueza no braço,AVC
+dormência de um lado do corpo,confusão mental,AVC
+perda de visão súbita,dor de cabeça súbita,AVC
+desequilíbrio,fala embolada,AVC
+dor no peito que piora ao respirar,febre,Pericardite
+dor no peito que melhora ao inclinar para frente,dor no peito ao deitar,Pericardite
+dor no peito em pontada,febre,Pericardite
+desmaio,vista escura,Síncope
+tontura ao levantar,desmaio,Síncope
+escurecimento da visão,queda súbita,Síncope
+suor frio,sensação de desmaio,Síncope
+perna inchada de um lado,dor na panturrilha,Trombose Venosa
+dor na perna,vermelhidão na perna,Trombose Venosa
+inchaço em uma perna,perna quente,Trombose Venosa
+dor no peito ao apertar,dor ao mover o braço,Dor Musculoesquelética
+dor no peito ao mover o tronco,dor muscular,Dor Musculoesquelética
+dor que piora ao apertar o peito,dor após exercício,Dor Musculoesquelética
+coração acelerado,sensação de sufoco,Ansiedade
+formigamento nas mãos,nervosismo,Ansiedade
+falta de ar em momentos de estresse,medo de morrer,Ansiedade
+tremor,coração acelerado,Ansiedade
+queimação no peito,azia,Refluxo
+azia após comer,gosto amargo na boca,Refluxo
+queimação no estômago,arroto,Refluxo
+queimação no peito ao deitar,azia,Refluxo
