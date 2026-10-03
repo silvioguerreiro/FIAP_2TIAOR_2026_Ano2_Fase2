@@ -233,7 +233,7 @@ Análise completa em [`document/governanca_e_vieses.md`](document/governanca_e_v
 
 | Atividade | Repositório | Resumo |
 |---|---|---|
-| Ir Além 1: interface do CardioIA em React + Vite | [grupo69-cardioia-portal](https://github.com/silvioguerreiro/grupo69-cardioia-portal) | Portal responsivo com autenticação simulada via Context API (JWT falso no `localStorage`), listagem de pacientes (JSONPlaceholder com fallback local), agendamento com `useState` e `useReducer`, painel com indicadores, rotas protegidas e CSS Modules; teste de ponta a ponta com Playwright. Vídeo próprio, com link no README do repositório. |
+| Ir Além 1: interface do CardioIA em React + Vite | [FIAP_2TIAOR_2026_Ano2_Fase2_Ir_Alem_1_Grupo69_cardioia-portal](https://github.com/silvioguerreiro/FIAP_2TIAOR_2026_Ano2_Fase2_Ir_Alem_1_Grupo69_cardioia-portal) | Portal responsivo com autenticação simulada via Context API (JWT falso no `localStorage`), listagem de pacientes (JSONPlaceholder com fallback local), agendamento com `useState` e `useReducer`, painel com indicadores, rotas protegidas e CSS Modules; teste de ponta a ponta com Playwright. Vídeo próprio, com link no README do repositório. |
 | Ir Além 2: diagnóstico visual com MLP em Keras | [grupo69-cardioia-ecg-mlp](https://github.com/silvioguerreiro/grupo69-cardioia-ecg-mlp) | Batimentos do subconjunto PTB do dataset Kaggle heartbeat convertidos em imagens em tons de cinza, pré-processados (32 x 32, normalizados, achatados) e classificados por uma MLP em Keras: acurácia de 0,9734 e AUC de 0,9948 no teste. Notebook executado, exemplos de imagens e vídeo próprio, com link no README do repositório. |
 
 ## 📁 Estrutura de pastas
