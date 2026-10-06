@@ -21,7 +21,7 @@
 
 ## 🎥 Vídeo de demonstração
 
-**Link (YouTube, não listado):** [A INSERIR APÓS A PUBLICAÇÃO]
+**Link (YouTube, não listado):** https://youtu.be/0i41WGuGkGc
 
 Duração de até 4 minutos, com gravação de tela e narração por voz, demonstrando a execução do extrator de sintomas (Parte 1), o treinamento e a avaliação do classificador de risco (Parte 2) e a função de triagem que integra os dois.
 
